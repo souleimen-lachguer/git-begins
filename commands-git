@@ -7,3 +7,4 @@ git clone <URL_du_repository>
 git add .                        # Ajouter tous les fichiers modifiés
 git commit -m "Message du commit" # Commiter les changements
 git push origin <nom_branche>    # Pousser les changements sur la branche spécifiée
+git pull origin <nom_branche>
