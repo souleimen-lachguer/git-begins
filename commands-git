@@ -1,0 +1,9 @@
+# Commandes Git
+
+# Cloner un repository
+git clone <URL_du_repository>
+
+# Les 3 commandes de push
+git add .                        # Ajouter tous les fichiers modifiés
+git commit -m "Message du commit" # Commiter les changements
+git push origin <nom_branche>    # Pousser les changements sur la branche spécifiée
